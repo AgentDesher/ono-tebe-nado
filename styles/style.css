@@ -8,7 +8,6 @@
 
 .header__menu {
     align-self: center;
-
 }
 
 .header__logo {
@@ -36,13 +35,6 @@
 .header__logo-image {
     height: 105px;
 }
-
-
-
-
-
-
-
 
 .cover {
     position: relative;
@@ -121,15 +113,6 @@
     font-weight: lighter;
     font-size: 22px;
 }
-
-
-
-
-
-
-
-
-
 
 .lots {
     padding-top: 180px;
@@ -216,32 +199,6 @@
     padding-bottom: 84px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .about {
     padding-left: 50px;
     padding-right: 50px;
@@ -281,19 +238,6 @@
     padding-bottom: 15px;
     font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer {
   display: grid;
